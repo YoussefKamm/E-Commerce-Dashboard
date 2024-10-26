@@ -45,16 +45,16 @@ E-commerce-Dashboard/
 ## 🏆 Dashboard Preview
 
 ### Home Dashboard:
-![Home](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Image/Home.png)  
+![Home](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Home.png)  
 
 ### Overview Dashboard:
-![Overview](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Image/Overview.png)  
+![Overview](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Overview.png)  
 
 ### Product Dashboard:
-![Product](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Image/Product.png)  
+![Product](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Product.png)  
 
 ### Sales Dashboard:
-![Sales](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Image/Sales.png)  
+![Sales](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Sales.png)  
 
 ---
 

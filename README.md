@@ -45,16 +45,16 @@ E-commerce-Dashboard/
 ## 🏆 Dashboard Preview
 
 ### Home Dashboard:
-![Home]([https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Home.png](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Home.jpg))  
+![image]([https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Home.png](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Home.jpg))  
 
 ### Overview Dashboard:
-![Overview]([https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Overview.png](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Overview.jpg))  
+![image]([https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Overview.png](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Overview.jpg))  
 
 ### Product Dashboard:
-![Product]([https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Product.png](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Product.jpg))  
+![image]([https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Product.png](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Product.jpg))  
 
 ### Sales Dashboard:
-![Sales]([https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Sales.png](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Sales.jpg))  
+![image]([https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Dashboard-Cap/Sales.png](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Sales.jpg))  
 
 ---
 

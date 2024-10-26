@@ -1,1 +1,79 @@
-# E-Commerce-Dashboard
+# 🛒 E-commerce Dashboard  
+
+This project focuses on **analyzing e-commerce data** and creating an interactive **Power BI dashboard** to visualize insights related to **sales, products, and performance**. The dashboards provide a detailed view of the business to support data-driven decision-making.
+
+---
+
+## 🚀 Project Overview
+
+The project involves:  
+- **Data integration** and **cleaning** for accurate analysis.  
+- **Exploratory Data Analysis (EDA)** to identify key trends.  
+- **Visualizing KPIs** in Power BI to track sales, profits, and product performance.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Power BI**: For data visualization and dashboard creation  
+- **Python / SQL (optional)**: For data preprocessing  
+- **Git/GitHub**: Version control  
+
+---
+
+## 📂 Folder Structure
+
+E-commerce-Dashboard/
+
+- ├── Dashboard-Cap/               # Screenshots of dashboards (.png)
+- ├── Database/                    # The Database (.csv)
+- ├── Image/                       # Images used in dashboard(.png)
+- ├── E-commerce-Dashboard.pbix    # Power BI project file (pbix)
+- ├── README.md                    # Project documentation 
+
+---
+
+## 📈 Key Insights
+
+- **Sales Trends**: Monitor trends in sales and profits over time.  
+- **Product Performance**: Identify top-performing products and categories.  
+- **Order Metrics**: Track order volume and customer segments.  
+- **Overview Analysis**: Consolidated view of overall performance indicators.
+
+---
+
+## 🏆 Dashboard Preview
+
+### Home Dashboard:
+![Home](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Image/Home.png)  
+
+### Overview Dashboard:
+![Overview](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Image/Overview.png)  
+
+### Product Dashboard:
+![Product](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Image/Product.png)  
+
+### Sales Dashboard:
+![Sales](https://github.com/YoussefKammoun/E-commerce-Dashboard/blob/main/Image/Sales.png)  
+
+---
+
+## 💡 Future Improvements
+
+- Implement predictive models to forecast sales trends.  
+- Integrate customer feedback for sentiment analysis.  
+- Automate data refresh using Power BI services for real-time insights.
+
+---
+
+## 🤝 Contributing
+
+- Contributions are welcome!  
+- Feel free to open issues or submit pull requests for improvements.
+
+---
+
+## 👤 Author
+
+- [LinkedIn: Youssef Kammoun](https://www.linkedin.com/in/youssef-kammoun)  
+- Email: [kammoun.youssef@outlook.com](mailto:kammoun.youssef@outlook.com)

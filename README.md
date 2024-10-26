@@ -48,13 +48,13 @@ E-commerce-Dashboard/
 ![image](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Home.jpg)
 
 ### Overview Dashboard:
-![image](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Overview.jpg))  
+![image](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Overview.jpg)
 
 ### Product Dashboard:
-![image](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Product.jpg))  
+![image](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Product.jpg)
 
 ### Sales Dashboard:
-![image](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Sales.jpg))  
+![image](https://github.com/YoussefKamm/E-Commerce-Dashboard/blob/main/Dashboard-Cap/Sales.jpg)
 
 ---
 

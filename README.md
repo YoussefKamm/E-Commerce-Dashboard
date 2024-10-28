@@ -75,5 +75,5 @@ E-commerce-Dashboard/
 
 ## 👤 Author
 
-- [LinkedIn: Youssef Kammoun](https://www.linkedin.com/in/kammounyoussef)  
-- Email: [kammounyoussef1@isimsf.u-sfax.tn](mailto:kammounyoussef1@isimsf.u-sfax.tn)
+- [LinkedIn : Youssef Kammoun](https://www.linkedin.com/in/kammounyoussef)  
+- [Email : kammounyoussef1@isimsf.u-sfax.tn](mailto:kammounyoussef1@isimsf.u-sfax.tn)

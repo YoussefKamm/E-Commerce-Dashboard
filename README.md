@@ -75,5 +75,5 @@ E-commerce-Dashboard/
 
 ## 👤 Author
 
-- [LinkedIn: Youssef Kammoun](https://www.linkedin.com/in/youssef-kammoun)  
+- [LinkedIn: Youssef Kammoun](https://www.linkedin.com/in/kammounyoussef)  
 - Email: [kammoun.youssef@outlook.com](mailto:kammoun.youssef@outlook.com)
